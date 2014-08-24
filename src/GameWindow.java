@@ -12,7 +12,7 @@
 // (c) 1997-2014 OLM, Inc.                                     //
 // (c) 1998-2006 4Licensing Corporation                        //
 //-------------------------------------------------------------//
-// Version: v0.1                                               //
+// Version: v0.1.0.1                                           //
 // Updated: 24/08/2014                                         //
 // Authors: Andy Davies                                        //
 // Website: http://www.github.com/andeed/pokemon-indigo-league //
